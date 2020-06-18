@@ -6,4 +6,5 @@ In this exercise I practiced:
 4. Use an Angular built-in filter
 5. Injecting dependencies into modules
 6. Passing data from controller to directive
+7. Services
 <img src="https://res.cloudinary.com/mokaweb/image/upload/v1592417155/Codecademy%20Angular/NearMeApp.gif" alt="NearMeApp">
